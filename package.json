@@ -35,7 +35,7 @@
   ],
   "dependencies": {
     "debug": "^4.1.0",
-    "handle-thing": "^2.0.0",
+    "handle-thing": "git+ssh://git@github.com/hotyhuang/handle-thing.git",
     "http-deceiver": "^1.2.7",
     "select-hose": "^2.0.0",
     "spdy-transport": "^3.0.0"
